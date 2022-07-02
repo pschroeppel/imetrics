@@ -1,5 +1,12 @@
 #!/usr/bin/env python3
 
+### ---------------------------------------- ###
+### Part of iMetrics                         ###
+### (C) 2022 Eddy ilg (me@eddy-ilg.net)      ###
+### MIT License                              ###
+### See https://github.com/eddy-ilg/imetrics ###
+### ---------------------------------------- ###
+
 import numpy as np
 import math
 from ._pair_metric import _PairMetric

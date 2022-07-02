@@ -1,5 +1,12 @@
 #!/usr/bin/env python3
 
+### ---------------------------------------- ###
+### Part of iMetrics                         ###
+### (C) 2022 Eddy ilg (me@eddy-ilg.net)      ###
+### MIT License                              ###
+### See https://github.com/eddy-ilg/imetrics ###
+### ---------------------------------------- ###
+
 from itypes import data_root, Dataset, float32
 from imetrics import compute_pair_metric
 

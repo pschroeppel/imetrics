@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
 
+### ---------------------------------------- ###
+### Part of iMetrics                         ###
+### (C) 2022 Eddy ilg (me@eddy-ilg.net)      ###
+### MIT License                              ###
+### See https://github.com/eddy-ilg/imetrics ###
+### ---------------------------------------- ###
 
 class _PairMetric:
     _name = None
