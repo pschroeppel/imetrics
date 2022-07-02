@@ -25,6 +25,7 @@ Instructions:
     pip3 install --user -r requirements.txt 
 
     # Add to your ~/.bashrc:
+    # (this will configure PATH and PYTHONPATH)
     source /my/code/imetrics/bashrc 
 
 ## License
