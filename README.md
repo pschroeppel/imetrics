@@ -22,6 +22,7 @@ Instructions:
     git clone https://github.com/eddy-ilg/imetrics
     cd imetrics 
     
+    # Install requirements
     pip3 install --user -r requirements.txt 
 
     # Add to your ~/.bashrc:
